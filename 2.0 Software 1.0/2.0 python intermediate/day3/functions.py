@@ -1,0 +1,1 @@
+# withouth functions repitivive and error-pr0ne 
