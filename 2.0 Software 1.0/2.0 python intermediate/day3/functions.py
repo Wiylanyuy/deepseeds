@@ -1,4 +1,4 @@
-# # withouth functions repitivive and error-prone 
+# # withouth functions repetivive and error-prone 
 # radius1 = 5
 # area1 = 3.14159 * radius1 * radius1
 # print(f"Area of circle 1: {area1}")
