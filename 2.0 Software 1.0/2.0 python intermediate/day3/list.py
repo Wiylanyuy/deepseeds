@@ -28,6 +28,6 @@ print(f'current list after adding: {fruit_list}')
 fruit_list.pop() # removes the last element and return the list 
 print(f'last list: {fruit_list}')
 
-# fruit_list.insert(1, "choco")
-# print(fruit_list)
+fruit_list.insert(1, "choco")
+print(fruit_list)
 
